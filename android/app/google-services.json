@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "388906291502",
+    "project_id": "klinkit-12",
+    "storage_bucket": "klinkit-12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388906291502:android:40964f63166891b5a72abf",
+        "android_client_info": {
+          "package_name": "com.kartik.KlinkIt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388906291502-mgpjkjmivnsj1sbfccvr5e1u528h0kid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kartik.KlinkIt",
+            "certificate_hash": "11f27173eb382423b6126c2a5241160598709a67"
+          }
+        },
+        {
+          "client_id": "388906291502-8gqs101tl3f942ahk41u8h9npvv80s8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTyqA13Gu1qVgHWKwFoa0x4YK_q_fOu4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388906291502-8gqs101tl3f942ahk41u8h9npvv80s8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
